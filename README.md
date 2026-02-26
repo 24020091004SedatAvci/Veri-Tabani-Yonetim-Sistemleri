@@ -49,6 +49,7 @@ SELECT * FROM kisiler;
 Örnek Sorgu Çıktısı
 
 id,ad,soyad,eposta,yas,kayit_tarihi
+
 1,Ayşe,Demir,ayse.demir@ornek.com,24,2026-02-26 16:40:00
 2,Mehmet,Kaya,mehmet.kaya@ornek.com,35,2026-02-26 16:40:00
 
