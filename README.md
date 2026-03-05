@@ -1,58 +1,22 @@
-# 📚 Veritabanı Yönetimi - Hafta 1 Ödevi
+# 🗄️ Veri Tabanı Yönetim Sistemleri (Ders Notları ve Ödevler)
+,
 
-Bu depo, Kahramanmaraş İstiklal Üniversitesi Yazılım Mühendisliği bölümü Veritabanı Yönetimi dersi 1. hafta ödevini içermektedir. Proje kapsamında MySQL kullanılarak sıfırdan bir veritabanı tasarlanmış, tablo yapısı oluşturulmuş ve çeşitli veri kısıtlamaları (constraints) uygulanmıştır.
+Dönem boyunca işlenen konuları ve yapılan uygulamaları kronolojik bir sırada burada arşivliyorum.
 
-## 🚀 Proje İçeriği ve Öğrenim Çıktıları
+## 🛠️ Kullanılan Teknolojiler & Araçlar
+* **Veritabanı Altyapısı:** MariaDB / MySQL
+* **Sunucu:** WampServer (Localhost)
+* **Yönetim:** phpMyAdmin & MySQL CLI
+* **Kaynak:** W3Schools SQL Standardı
 
-Bu çalışmada temel SQL komutları (`CREATE`, `INSERT`, `SELECT`) kullanılarak aşağıdaki kısıtlamalar pratik edilmiştir:
-
-- **PRIMARY KEY & AUTO_INCREMENT:** Her kaydın benzersiz bir kimliğe (`id`) sahip olması ve bu değerin otomatik artması sağlandı.
-- **NOT NULL:** İsim, soyisim ve e-posta gibi kritik alanların boş geçilmesi engellendi.
-- **CHECK:** Sisteme kayıt olacak kişilerin yaşının 18 veya daha büyük olması zorunluluğu getirildi.
-- **DEFAULT CURRENT_TIMESTAMP:** Kayıt işleminin yapıldığı tarih ve saatin sisteme otomatik olarak işlenmesi sağlandı.
-
-## 💻 Kullanılan SQL Sorguları
-
-Aşağıdaki kodlar sırasıyla Workbench üzerinde çalıştırılarak veritabanı inşa edilmiştir:
-
-### 1. Veritabanı ve Tablo Kurulumu
-```sql
-CREATE DATABASE kisilerim;
-USE kisilerim;
-
-CREATE TABLE kisiler (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    ad VARCHAR(50) NOT NULL,
-    soyad VARCHAR(50) NOT NULL,
-    eposta VARCHAR(50) NOT NULL,
-    yas INT CHECK (yas >= 18),
-    kayit_tarihi TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-```
-
-2. Tabloya Veri Ekleme (INSERT)
-
-```sql
-INSERT INTO kisiler (ad, soyad, eposta, yas) 
-VALUES 
-    ('Ayşe', 'Demir', 'ayse.demir@ornek.com', 24),
-    ('Mehmet', 'Kaya', 'mehmet.kaya@ornek.com', 35);
-```
-
-3. Verileri Okuma (SELECT)
-
-```sql
-SELECT * FROM kisiler;
-```
+## 📂 Klasör Yapısı
+Ödevler, karışıklığı önlemek adına haftalık olarak klasörlenmiştir. Her klasörün içerisinde o haftaya ait `.sql` dosyaları ve çalışma çıktıları yer almaktadır:
 
 
-Örnek Sorgu Çıktısı
+## 🚀 Nasıl Kullanılır?
+1. İlgili haftanın klasörüne gidin.
+2. Klasör içindeki `.sql` yedeğini veritabanınıza import edin.
+3. Sorguları çalıştırarak sonuçları gözlemleyin.
 
-id,ad,soyad,eposta,yas,kayit_tarihi
-
-1,Ayşe,Demir,ayse.demir@ornek.com,24,2026-02-26 16:40:00
-
-2,Mehmet,Kaya,mehmet.kaya@ornek.com,35,2026-02-26 16:40:00
-
-
-
+---
+*Bu bölümdeki tüm çalışmalar eğitim amaçlıdır.*
