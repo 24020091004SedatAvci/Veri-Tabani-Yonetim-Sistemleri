@@ -8,7 +8,7 @@ Sistemin temelini oluşturan, ADO.NET mimarisi kullanılarak geliştirilmiş mas
 * SQL Server ile senkronize veri yönetimi.
 
 ### 📸 Ekran Görüntüsü
-![WinForms Arayüzü](screenshots/winforms_main.png)
+<img width="1076" height="871" alt="winForm" src="https://github.com/user-attachments/assets/ae1ac240-0c9c-4359-984c-709d88b1f17d" />
 
 ### 💻 Teknik Detaylar
 * **Dil:** C#
