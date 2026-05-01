@@ -9,7 +9,7 @@ WinForms mantığının web ortamına taşındığı, olay tabanlı (event-drive
 * Satır tıklama özelliği (RowDataBound) ile modern kullanıcı deneyimi.
 
 ### 📸 Ekran Görüntüsü
-![ASP.NET Web Arayüzü](screenshots/asp_web.png)
+<img width="927" height="835" alt="asp" src="https://github.com/user-attachments/assets/01737cdc-b379-4326-9852-d093c74eef85" />
 
 ### 🛠 Teknik Stack
 * **Backend:** C#
