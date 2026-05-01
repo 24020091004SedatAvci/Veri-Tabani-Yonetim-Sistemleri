@@ -8,7 +8,7 @@ WampServer ortamında geliştirilmiş, PHP ve SQL Server (sqlsrv) entegrasyonuna
 * PHP `sqlsrv` kütüphanesi ile yüksek performanslı veritabanı iletişimi.
 
 ### 📸 Ekran Görüntüsü
-![PHP Web Arayüzü](screenshots/php_web.png)
+<img width="937" height="970" alt="php" src="https://github.com/user-attachments/assets/beab1d85-45af-4da7-971d-bed3df4bfb94" />
 
 ### 🚀 Kurulum
 1. `db.php` dosyasındaki SQL Server bağlantı bilgilerini güncelleyin.
