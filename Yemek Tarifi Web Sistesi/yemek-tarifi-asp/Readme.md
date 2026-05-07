@@ -17,7 +17,6 @@ Bu klasörde, Yemek Tarifi uygulamasının **ASP.NET Web Forms** ve **MSSQL (Mic
 ## Veri Tabanı
 Veri tabanı oluşturma işlemleri için ana dizindeki `database.sql` dosyasını kullanabilirsiniz. 
 * **Veri Tabanı Adı:** `yemek_tarifi`
-<img width="1622" height="1034" alt="asp-2" src="https://github.com/user-attachments/assets/b4a74488-3d88-411e-ac2b-b428c3032c66" />
 * `kategoriler`
 * `tarifler`
 * `malzemeler`
