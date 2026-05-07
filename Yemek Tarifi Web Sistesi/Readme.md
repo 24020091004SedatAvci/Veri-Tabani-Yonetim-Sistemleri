@@ -1,4 +1,4 @@
-# 🍽️ Yemek Tarifi Web Sitesi (Multi-Stack Projesi)
+# 🍽️ Yemek Tarifi Web Sitesi 
 
 Bu proje, web programlama dersi kapsamında hazırlanmış kapsamlı bir yemek tarifi platformudur. 
 
