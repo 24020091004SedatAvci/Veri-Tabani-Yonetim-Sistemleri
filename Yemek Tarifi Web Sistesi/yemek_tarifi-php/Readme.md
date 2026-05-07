@@ -32,7 +32,14 @@ Kullanılan tablolar:
 ## Ekran Görüntüleri
 Aşağıdaki bağlantılara tıklayarak projenin ekran görüntülerini inceleyebilirsiniz:
 
-* [Ana Sayfa](./screenshots/ana_sayfa.png)
-* [Tarif Yönetimi](./screenshots/tarif_yonetimi.png)
-* [Tarif Detay](./screenshots/detay.png)
-* [Tarif Güncelleme](./screenshots/guncelle.png)
+* [Ana Sayfa]
+* <img width="1573" height="712" alt="php-1" src="https://github.com/user-attachments/assets/8c01b569-a73b-403f-894b-a3342559eb59" />
+
+* [Tarif Yönetimi]
+* <img width="1640" height="997" alt="php-2" src="https://github.com/user-attachments/assets/dc854652-0e59-4535-824e-5a58c672f7c0" />
+
+* [Tarif Detay]
+* <img width="1536" height="1066" alt="php-3" src="https://github.com/user-attachments/assets/06faaf79-bd8d-44ac-9fa2-0285eb72f5d1" />
+
+* [Tarif Güncelleme]
+* <img width="1568" height="527" alt="php-4" src="https://github.com/user-attachments/assets/acbce808-86db-42fe-8d8f-475cfc6ee99b" />
