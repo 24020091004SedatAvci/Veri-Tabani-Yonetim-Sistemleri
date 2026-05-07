@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|c:\\users\\sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|solutionrelative:yemek-tarifi-asp\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|c:\\users\\sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\detay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|solutionrelative:yemek-tarifi-asp\\detay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|c:\\users\\sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\detay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|solutionrelative:yemek-tarifi-asp\\detay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|c:\\users\\sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\tarifcrud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|solutionrelative:yemek-tarifi-asp\\tarifcrud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|c:\\users\\sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\tarifcrud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|solutionrelative:yemek-tarifi-asp\\tarifcrud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|c:\\users\\sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|solutionrelative:yemek-tarifi-asp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|c:\\users\\sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|solutionrelative:yemek-tarifi-asp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|c:\\users\\sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC2A0358-CB82-4881-8248-6AE260812921}|yemek-tarifi-asp\\yemek-tarifi-asp.csproj|solutionrelative:yemek-tarifi-asp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\Detay.aspx.cs",
+              "RelativeDocumentMoniker": "yemek-tarifi-asp\\Detay.aspx.cs",
+              "ToolTip": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\Detay.aspx.cs",
+              "RelativeToolTip": "yemek-tarifi-asp\\Detay.aspx.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T16:39:44.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detay.aspx",
+              "DocumentMoniker": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\Detay.aspx",
+              "RelativeDocumentMoniker": "yemek-tarifi-asp\\Detay.aspx",
+              "ToolTip": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\Detay.aspx",
+              "RelativeToolTip": "yemek-tarifi-asp\\Detay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-07T16:39:24.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarifCrud.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\TarifCrud.aspx.cs",
+              "RelativeDocumentMoniker": "yemek-tarifi-asp\\TarifCrud.aspx.cs",
+              "ToolTip": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\TarifCrud.aspx.cs",
+              "RelativeToolTip": "yemek-tarifi-asp\\TarifCrud.aspx.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAYwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T16:37:44.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarifCrud.aspx",
+              "DocumentMoniker": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\TarifCrud.aspx",
+              "RelativeDocumentMoniker": "yemek-tarifi-asp\\TarifCrud.aspx",
+              "ToolTip": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\TarifCrud.aspx",
+              "RelativeToolTip": "yemek-tarifi-asp\\TarifCrud.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-07T16:37:28.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\style.css",
+              "RelativeDocumentMoniker": "yemek-tarifi-asp\\style.css",
+              "ToolTip": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\style.css",
+              "RelativeToolTip": "yemek-tarifi-asp\\style.css",
+              "ViewState": "AgIAACsBAAAAAAAAAAAUwE4BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-07T16:31:35.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "yemek-tarifi-asp\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\Default.aspx.cs",
+              "RelativeToolTip": "yemek-tarifi-asp\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T16:29:05.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\Default.aspx",
+              "RelativeDocumentMoniker": "yemek-tarifi-asp\\Default.aspx",
+              "ToolTip": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\Default.aspx",
+              "RelativeToolTip": "yemek-tarifi-asp\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-07T16:28:28.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\Web.config",
+              "RelativeDocumentMoniker": "yemek-tarifi-asp\\Web.config",
+              "ToolTip": "C:\\Users\\Sedat\\source\\repos\\yemek-tarifi-asp\\yemek-tarifi-asp\\Web.config",
+              "RelativeToolTip": "yemek-tarifi-asp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-07T16:25:06.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
