@@ -17,8 +17,7 @@ Bu klasörde, Yemek Tarifi uygulamasının **ASP.NET Web Forms** ve **MSSQL (Mic
 ## Veri Tabanı
 Veri tabanı oluşturma işlemleri için ana dizindeki `database.sql` dosyasını kullanabilirsiniz. 
 * **Veri Tabanı Adı:** `yemek_tarifi`
-
-Kullanılan tablolar:
+<img width="1622" height="1034" alt="asp-2" src="https://github.com/user-attachments/assets/b4a74488-3d88-411e-ac2b-b428c3032c66" />
 * `kategoriler`
 * `tarifler`
 * `malzemeler`
@@ -33,7 +32,14 @@ Kullanılan tablolar:
 ## Ekran Görüntüleri
 Aşağıdaki bağlantılara tıklayarak projenin ekran görüntülerini inceleyebilirsiniz:
 
-* [Ana Sayfa](./screenshots/ana_sayfa.png)
-* [Tarif Yönetimi](./screenshots/tarif_yonetimi.png)
-* [Tarif Detay](./screenshots/detay.png)
-* [Tarif Güncelleme](./screenshots/guncelle.png)
+* [Ana Sayfa]
+  <img width="1583" height="617" alt="asp-1" src="https://github.com/user-attachments/assets/61e91658-6484-4be5-9ca9-af5062eca27d" />
+
+* [Tarif Yönetimi]
+  <img width="1622" height="1034" alt="asp-2" src="https://github.com/user-attachments/assets/24f2db82-b3c9-490f-979b-187d38000b7b" />
+
+* [Tarif Detay]
+  <img width="1694" height="1038" alt="asp-3" src="https://github.com/user-attachments/assets/fb16dc14-54c9-44f6-b92e-b8aa078b30ca" />
+
+* [Tarif Güncelleme]
+  <img width="1519" height="628" alt="asp-4" src="https://github.com/user-attachments/assets/ace8e208-2615-494f-a7ee-61cd5729b360" />
