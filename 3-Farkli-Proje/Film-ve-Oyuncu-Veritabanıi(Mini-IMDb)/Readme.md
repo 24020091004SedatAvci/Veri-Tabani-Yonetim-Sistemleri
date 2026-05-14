@@ -497,7 +497,8 @@ Bu proje, Veri Tabanı Yönetim Sistemleri dersi kapsamında ödev amacıyla haz
 
 ## Ana Sayfa
 
-![Ana Sayfa](screenshots/01-anasayfa.png)
+![Ana Sayfa](<img width="1906" height="1064" alt="ana-sayfa" src="https://github.com/user-attachments/assets/0f118e1a-f33e-45f5-b5ce-050f9ca64941" />)
+
 
 ## Film Detay Sayfası
 
