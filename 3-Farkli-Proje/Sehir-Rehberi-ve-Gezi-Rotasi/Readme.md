@@ -192,32 +192,42 @@ Bu proje, veri tabanı yönetim sistemleri dersi kapsamında ödev amacıyla haz
 
 ## Ana Sayfa
 
-![Ana Sayfa](screenshots/01-anasayfa.png)
+![Ana Sayfa]
+<img width="1902" height="1062" alt="01-anasayfa" src="https://github.com/user-attachments/assets/cd15bbd0-d9ca-41c2-8e5c-81140f191c44" />
 
 ## Gelişmiş Arama Sayfası
 
-![Arama Sayfası](screenshots/02-arama-sayfasi.png)
+![Arama Sayfası]
+<img width="1902" height="1066" alt="02-arama-sayfasi" src="https://github.com/user-attachments/assets/3149e163-b522-4527-8694-0bbf86750ccc" />
+
 
 ## Şehir Detay Sayfası
 
-![Şehir Detay](screenshots/03-sehir-detay.png)
+![Şehir Detay]
+<img width="1917" height="1063" alt="03-sehir-detay" src="https://github.com/user-attachments/assets/424a68ba-2173-470e-bdfc-54b78b428e44" />
+
 
 ## Mekan Detay Sayfası
 
-![Mekan Detay](screenshots/04-mekan-detay.png)
+![Mekan Detay]
+<img width="1902" height="1064" alt="04-mekan-detay" src="https://github.com/user-attachments/assets/6ef85a60-9e80-4980-b54e-e5c529dfd3b1" />
 
 ## Yeni Mekan Ekleme Sayfası
 
-![Yeni Mekan Ekle](screenshots/05-yeni-mekan-ekle.png)
+![Yeni Mekan Ekle]
+<img width="1919" height="1067" alt="05-yeni-mekan-ekle" src="https://github.com/user-attachments/assets/3435fdc6-627b-4db3-824f-20f8c6096aa7" />
+
 
 ## Yeni Etkinlik Ekleme Sayfası
 
-![Yeni Etkinlik Ekle](screenshots/06-yeni-etkinlik-ekle.png)
+![Yeni Etkinlik Ekle]
+<img width="1918" height="1066" alt="06-yeni-etkinlik-ekle" src="https://github.com/user-attachments/assets/826a9e53-be8f-43e7-adef-b1fd4f4953e2" />
+
 
 ## Yeni Rehber Ekleme Sayfası
 
-![Yeni Rehber Ekle](screenshots/07-yeni-rehber-ekle.png)
+<img width="1915" height="1069" alt="07-yeni-rehber-ekle" src="https://github.com/user-attachments/assets/43e465b1-6ea6-42ae-84d4-13be2db284e2" />
+
 
 ## Veri Tabanı Şeması
-
-![Veri Tabanı Şeması](screenshots/08-veritabani-semasi.png)
+<img width="771" height="991" alt="08-veritabani-semasi" src="https://github.com/user-attachments/assets/e9371bcc-3ae1-47df-b72e-3b6680276b2a" />
