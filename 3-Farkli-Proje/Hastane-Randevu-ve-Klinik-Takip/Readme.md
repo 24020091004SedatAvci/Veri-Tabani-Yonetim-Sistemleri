@@ -488,31 +488,45 @@ Data Source=.\SQLEXPRESS;
 
 ## Klinik Listesi
 
-![Klinik Listesi](screenshots/01-klinik-listesi.png)
+![Klinik Listesi]
+<img width="1904" height="1052" alt="01-klinik-listesi" src="https://github.com/user-attachments/assets/8ff8a326-904d-4190-95b7-dc2f01ed7c0c" />
+
 
 ## Doktor Seçimi
 
-![Doktor Seçimi](screenshots/02-doktor-secimi.png)
+![Doktor Seçimi]
+<img width="1911" height="727" alt="02-doktor-secimi" src="https://github.com/user-attachments/assets/8f4275a9-dff0-4d95-ba93-285891c4cafd" />
+
 
 ## Randevu Oluştur
 
-![Randevu Oluştur](screenshots/03-randevu-olustur.png)
+![Randevu Oluştur]
+<img width="1919" height="1066" alt="03-randevu-olustur" src="https://github.com/user-attachments/assets/e7bb0c71-94b3-43e9-b824-3b65debe8e5c" />
+
 
 ## Hasta Geçmişi
 
-![Hasta Geçmişi](screenshots/04-hasta-gecmisi.png)
+![Hasta Geçmişi]
+<img width="1900" height="1057" alt="04-hasta-gecmisi" src="https://github.com/user-attachments/assets/308f4008-39dc-4a36-bab9-dac607fcbd9a" />
+
 
 ## Günlük Randevu Planı
 
-![Günlük Randevu Planı](screenshots/05-gunluk-randevu-plani.png)
+![Günlük Randevu Planı]
+<img width="1919" height="1061" alt="05-gunluk-randevu-plani" src="https://github.com/user-attachments/assets/4f8b3c5b-f83c-45dc-b84b-a2741aeffa1d" />
+
 
 ## Randevu Düzenleme
 
-![Randevu Düzenleme](screenshots/06-randevu-duzenleme.png)
+![Randevu Düzenleme]
+<img width="1918" height="1084" alt="06-randevu-duzenleme" src="https://github.com/user-attachments/assets/ee85c4fb-94e9-4618-9832-d85006454cd5" />
+
 
 ## Reçete İşlemleri
 
-![Reçete İşlemleri](screenshots/07-recete-islemleri.png)
+![Reçete İşlemleri]
+<img width="1898" height="1053" alt="07-recete-islemleri" src="https://github.com/user-attachments/assets/25c4c6d3-4f11-4b98-978c-43aec7f54d63" />
+
 
 ---
 
