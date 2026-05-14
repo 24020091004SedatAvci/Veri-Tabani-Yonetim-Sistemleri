@@ -497,36 +497,46 @@ Bu proje, Veri Tabanı Yönetim Sistemleri dersi kapsamında ödev amacıyla haz
 
 ## Ana Sayfa
 
-![Ana Sayfa](<img width="1906" height="1064" alt="ana-sayfa" src="https://github.com/user-attachments/assets/0f118e1a-f33e-45f5-b5ce-050f9ca64941" />)
+![Ana Sayfa]
+<img width="1906" height="1064" alt="ana-sayfa" src="https://github.com/user-attachments/assets/1207c80f-324c-4774-b676-7e71fdd51b26" />
+
 
 
 ## Film Detay Sayfası
 
-![Film Detay](screenshots/02-film-detay.png)
+![Film Detay]
+<img width="1913" height="909" alt="film-detay" src="https://github.com/user-attachments/assets/26b51d51-5486-4f65-b427-050abc8f4598" />
+
 
 ## Oyuncu Profili Sayfası
 
-![Oyuncu Profili](screenshots/03-oyuncu-profili.png)
+![Oyuncu Profili]
+<img width="1908" height="997" alt="oyuncu-profili" src="https://github.com/user-attachments/assets/be4c1df7-4504-4465-83c5-c9f2c0425730" />
+
 
 ## Kategori Sayfası
 
-![Kategori Sayfası](screenshots/04-kategori-sayfasi.png)
+![Kategori Sayfası]
+<img width="1917" height="869" alt="kategori-sayfasi" src="https://github.com/user-attachments/assets/7e17a668-96e9-4ff6-81ee-f45db9656f3c" />
+
 
 ## Film Yönetimi Sayfası
 
-![Film Yönetimi](screenshots/05-film-yonetimi.png)
+![Film Yönetimi]
+<img width="1919" height="894" alt="film-yonetimi" src="https://github.com/user-attachments/assets/79e16cc0-2e68-4d12-9cc4-5424a3f16e56" />
+
 
 ## Film Ekleme Sayfası
 
-![Film Ekle](screenshots/06-film-ekle.png)
+![Film Ekle]
+<img width="1896" height="1053" alt="film-ekle" src="https://github.com/user-attachments/assets/ecccc123-27c6-4c47-ae34-359258e3f4ee" />
+
 
 ## Film Düzenleme Sayfası
 
-![Film Düzenle](screenshots/07-film-duzenle.png)
+![Film Düzenle]
+<img width="1895" height="1047" alt="film-duzenle" src="https://github.com/user-attachments/assets/87123d79-d79d-40bb-9fdf-5a33dbae2bca" />
 
-## Veri Tabanı Şeması
-
-![Veri Tabanı Şeması](screenshots/08-veritabani-semasi.png)
 
 ---
 
