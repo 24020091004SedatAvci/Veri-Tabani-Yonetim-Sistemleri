@@ -36,7 +36,7 @@ Uygulama, **Context API** tabanlı dinamik bir tema motoruna (Aydınlık / Karan
 
 ## 📂 Dosya ve Klasör Mimarisi
 
-```text
+```
 GunlukAjandam/
 ├── src/
 │   ├── db.js                 # SQLite bağlantı yönetimi, tablo oluşturma ve CRUD sorguları
