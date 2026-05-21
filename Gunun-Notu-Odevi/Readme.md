@@ -25,12 +25,12 @@ Uygulama, **Context API** tabanlı dinamik bir tema motoruna (Aydınlık / Karan
 
 | Yeni Not Ekleme (Aydınlık) | Yeni Not Ekleme (Karanlık) | Başarılı Kayıt Bildirimi |
 |:---:|:---:|:---:|
-| ![Ekleme Aydınlık]<img width="1080" height="2424" alt="Screenshot_20260521_232809" src="https://github.com/user-attachments/assets/aa01f2e4-c89f-4c49-8478-0fada731a503" /> | ![Ekleme Karanlık]<img width="1080" height="2424" alt="Screenshot_20260521_232816" src="https://github.com/user-attachments/assets/148a94aa-b8bf-4640-8835-ce1cf2f3b30e" /> | ![Başarılı Alert]<img width="1080" height="2424" alt="Screenshot_20260521_232948" src="https://github.com/user-attachments/assets/47b2100f-5c6b-4a01-8dad-037531bbe7b9" />
+| <img width="1080" height="2424" alt="Screenshot_20260521_232809" src="https://github.com/user-attachments/assets/aa01f2e4-c89f-4c49-8478-0fada731a503" /> | <img width="1080" height="2424" alt="Screenshot_20260521_232816" src="https://github.com/user-attachments/assets/148a94aa-b8bf-4640-8835-ce1cf2f3b30e" /> | <img width="1080" height="2424" alt="Screenshot_20260521_232948" src="https://github.com/user-attachments/assets/47b2100f-5c6b-4a01-8dad-037531bbe7b9" />
  |
 
 | Not Listesi ve To-Do (Karanlık) | Düzenleme Modalı | Not Listesi (Aydınlık) |
 |:---:|:---:|:---:|
-| ![Liste Karanlık]<img width="1080" height="2424" alt="Screenshot_20260521_232846" src="https://github.com/user-attachments/assets/f7da11ec-94f9-4f1f-a877-327d52c93333" /> | ![Modal Edit]<img width="1080" height="2424" alt="Screenshot_20260521_233017" src="https://github.com/user-attachments/assets/fe890550-980f-49d9-bac9-23921a0490ee" /> | ![Liste Aydınlık]<img width="1080" height="2424" alt="Screenshot_20260521_233021" src="https://github.com/user-attachments/assets/1038bc5b-1803-4829-b962-f796b1f6a4b6" /> |
+| <img width="1080" height="2424" alt="Screenshot_20260521_232846" src="https://github.com/user-attachments/assets/f7da11ec-94f9-4f1f-a877-327d52c93333" /> | <img width="1080" height="2424" alt="Screenshot_20260521_233017" src="https://github.com/user-attachments/assets/fe890550-980f-49d9-bac9-23921a0490ee" /> | <img width="1080" height="2424" alt="Screenshot_20260521_233021" src="https://github.com/user-attachments/assets/1038bc5b-1803-4829-b962-f796b1f6a4b6" /> |
 
 ---
 
